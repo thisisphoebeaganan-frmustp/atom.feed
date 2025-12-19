@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "phoebe",
+    "email": "phoebe@example.com",
+    "password": "1234",
+    "bio": "Surviving the atomizer one post at a time.",
+    "avatar": "/assets/img/avatar.png"
+  },
+  {
+    "id": 2,
+    "username": "random",
+    "email": "random@example.com",
+    "password": "5678",
+    "bio": "Posting brainrot until atomized.",
+    "avatar": "/assets/img/avatar2.png"
+  }
+]
